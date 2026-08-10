@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-78dozs.cuansalam.sbs/sitemap.xml
